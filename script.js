@@ -707,7 +707,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // 定义网站链接和推荐码
   const siteurl = "https://xiaobot.net/p/";
-  const refercode = "?refer=533724d2-273f-443f-bed1-7fa9cae0fdd9";
+  const refercode = "?refer=8bc0be3e-78e8-40da-ab51-a72da01562ac";
 
   // 获取页面元素
   const content = document.getElementById("content");
